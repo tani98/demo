@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="chocoyo_labs_splash_class_name">com.crazycode.app.demo.MainActivity</string>
+
+    <string name="main_button_create">crear</string>
+</resources>
